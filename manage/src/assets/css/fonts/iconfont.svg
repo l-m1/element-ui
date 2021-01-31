@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="pass" unicode="&#58882;" d="M219.429 457.143V603.575a292.425 292.425 0 0 0 584.85 0v-146.432h73.435A73.143 73.143 0 0 0 950.857 384v-438.857A73.143 73.143 0 0 0 877.714-128H146.286a73.143 73.143 0 0 0-73.143 73.143V384a73.143 73.143 0 0 0 73.143 73.143h73.143z m73.142 0h438.565V603.575a219.282 219.282 0 0 1-438.565 0v-146.432zM512 310.857a73.143 73.143 0 0 1-73.143-73.143V91.43a73.143 73.143 0 0 1 146.286 0V237.714A73.143 73.143 0 0 1 512 310.857z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="username" unicode="&#58881;" d="M238.933 622.933a273.067 273.067 0 1 1 546.134 0 273.067 273.067 0 1 1-546.134 0zM375.467 281.6h273.066a341.333 341.333 0 0 0 341.334-341.333V-128H34.133v68.267A341.333 341.333 0 0 0 375.467 281.6z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
